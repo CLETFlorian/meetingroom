@@ -1,4 +1,4 @@
-var i18n = {
+{
     'upcoming_schedule': 'calendrier à venir',
     'no_upcoming_meetings': 'Aucune réunion à venir',
     'no_rooms_found': 'Pas de salle trouvé',
@@ -66,4 +66,4 @@ var i18n = {
     'check_in_upcoming': 'Enregistrez-vous à la prochaine réunion à venir',
     'daysOfWeek': ['Dimanche', 'Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi', 'Samedi'],
     'months': ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre']
-};
+}
